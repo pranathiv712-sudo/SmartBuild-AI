@@ -49,3 +49,6 @@ This is an educational prototype using simulated data and transparent rule-based
 
 ## Author
 Student project — Smart Building Automation and Agentic AI Concepts.
+
+## Dashboard Screenshot
+![SmartBuild AI Dashboard](Screenshot%202026-10-24%20181959.png)
